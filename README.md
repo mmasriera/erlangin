@@ -2,6 +2,8 @@
 
 first steps
 
+- A1: a simple chat service
+
 resources:
   - [Erlang documentation](http://www.erlang.org/doc/)
   - [Learn you some erlang](http://learnyousomeerlang.com/content)
