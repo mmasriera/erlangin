@@ -1,8 +1,6 @@
 ##ERLANG
 
-first steps
-
-- A1: a simple chat service
+SDX
 
 resources:
   - [Erlang documentation](http://www.erlang.org/doc/)
