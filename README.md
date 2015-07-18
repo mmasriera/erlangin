@@ -1,6 +1,6 @@
 ##ERLANG
 
-SDX
+[SDX](http://www.fib.upc.edu/en/estudiar-enginyeria-informatica/assignatures/SDX.html)
 
 resources:
   - [Erlang documentation](http://www.erlang.org/doc/)
